@@ -80,7 +80,7 @@ mkdocs build
 MyDrive/
 └── project_time_series/
     ├── TB_Global_Weekly_Dataset.xlsx    ← requis
-    ├── collab.ipynb
+    ├── TB_Forecasting_Colab.ipynb
     └── outputs/                         ← créé automatiquement
 ```
 
