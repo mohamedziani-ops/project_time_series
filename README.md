@@ -152,5 +152,5 @@ Ce projet est distribué sous licence MIT. Voir le fichier `LICENSE` pour plus d
 
 ## 👤 Auteur
 
-**Mohamed Ziani**  
+**Mohamed Ziani et Hamdi Maria**  
 Projet de forecasting épidémiologique — 2026
