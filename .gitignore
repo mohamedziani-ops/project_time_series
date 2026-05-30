@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.whl
+
+# Environnements virtuels
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Données & outputs (ne pas versionner les gros fichiers)
+outputs/
+*.pkl
+*.h5
+*.model
+
+# Fichiers Excel générés (garder uniquement le dataset source)
+outputs/*.xlsx
+
+# Figures générées
+outputs/*.png
+outputs/*.jpg
+outputs/*.svg
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Variables d'environnement
+.env
+.env.local
+
+# ngrok
+ngrok.exe
+ngrok
+
+# MkDocs
+site/
